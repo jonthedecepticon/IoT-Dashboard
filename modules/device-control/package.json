@@ -1,0 +1,11 @@
+{
+  "name": "DeviceControl",
+  "version": "0.0.0",
+  "description": "A small library for connecting to the Device",
+  "main": "device-control.js",
+  "author": "Jon Lambson",
+  "license": "ISC",
+  "dependencies": {
+    "sample-dependency": "0.0.1"
+  }
+}
